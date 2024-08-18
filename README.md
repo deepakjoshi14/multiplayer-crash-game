@@ -1,2 +1,1 @@
-# multiplayer-crash-game
-A demo multiplayer crash game
+# Multiplayer Crash Game
